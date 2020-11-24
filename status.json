@@ -1,0 +1,38 @@
+{
+	"IF ONLINE": true,
+  "status": "success",
+  "online": true,
+  "motd": "",
+  "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACR0lEQVR42u2bsUoEMRCG9wl8AisVwUKw0s7O7kAQxEYrGx/C1xAfQovTQzlQC0vhGls7SwufIbJCdI27m8xkJpnsTjFwsMte/m8m2ZnNpDIvS9WYrVIACiD9n34urxmfDQpAiOBcQESLTgGjKOEcIIoUTgkii3izqLyWCkIy8SGiY2EkBcAtOgYGO4Bc4iEg2ADkFk4NgRRASvEhEMgBSBIeCoIMgGTxMRCKDHvK6TAY72OjYFDiMRCKAfD8sTC7D6dm5WbybfXv6/dHEAQwAEnit+6PfsRb25gddEIIjQIwACnisRCSAbAh6wtVn+3MT/4IPn+9MJdvV/8gkAOICf82r2FA1M9xxdtrLgTsNGDxvus1n6dCn+Ne9wEIiQJyAK7XXINEQZf3rdVAxQFo81pzoJAo8HnYToM2OKHTgNX7dmAh8xUDICYxIgfQtvBBvYUJcTEAmlkaVGiXYaBlA9AMcwrx3LUByxrAXQdsz4/N3tMZOJ8oGkDb2gLNJ4oF0FcHDB6ArwgqBgC0jnfvby6syQBQQqgXrtV60NNJb4rcZ/atggGAygQpAWzeHf4OfIoXTwmAvRrsyubWb/dRwkMqwyQAMBDcOgD7cQSbZaIBcEVB3ycsTI0RIz4ZADcKIG8EVzyl95N+Fe6CgF0QqfYGUPsCsdUdt3iyfQHOvQEIDArxaACj3xssaXeYDcDo+wO0Q0T4dBDTJDWKLjEpELL1CWqnaIZeYQ7h2i2u5wX0xIieGdJTYznODUoQrSdHFYACUADWvgDyS1HOwCZe5wAAAABJRU5ErkJggg==",
+  "error": null,
+  "players": {
+    "max": 20,
+    "now": 2,
+    "sample": [{
+      "name": "GoldenMen21",
+      "id": "5018898b-086d-4e19-be06-3aa4c4cdc995"
+    }, {
+      "name": "Tiltmyno",
+      "id": "3fe40f53-917c-4b76-89f9-aa9d95c08354"
+    }]
+  },
+  "server": {
+    "name": "Spigot 1.16.4",
+    "protocol": 754
+  },
+  "last_updated": "1606149701",
+  "last_online": "1606149701",
+	"duration": 679676344,
+
+	"IF OFFLINE" : false,
+	"status": 'error',
+	"online": false,
+	"motd": '',
+	"favicon": null,
+	"error": 'Connection refused (os error 111)',
+	"players": { max: 0, now: 0, sample: [] },
+	"server": { name: '', protocol: 0 },
+	"last_updated": '1606253144',
+	"last_online": '0',
+	"duration": 0
+}
