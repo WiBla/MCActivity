@@ -1,11 +1,12 @@
 {
-	"prefix": "!",
-  "server_ip": "pantagora.omgcraft.fr",
-  "server_port": "10005",
-  "activity_format": "{online}/{max} joueurs.",
-	"enable_channels": true,
-	"channel1ID": "780372465976737822",
-	"channel2ID": "780372488633712640",
-	"channel3ID": "780419904817201161",
-	"embedID": "780426531981230080"
+    "prefix": "!",
+    "server_ip": "pantagora.omgcraft.fr",
+    "server_port": "10005",
+    "update_interval": 5,
+    "activity_format": "{online}/{max} joueurs.",
+    "enable_channels": true,
+    "channel1ID": "780372465976737822",
+    "channel2ID": "780372488633712640",
+    "channel3ID": "780419904817201161",
+    "embedID": "780426531981230080"
 }
